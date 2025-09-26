@@ -41,4 +41,6 @@ Este proyecto se construyó aprovechando diversos servicios de AWS:
 
 - Mostrar de manera simple cómo AWS permite crear aplicaciones **serverless, rápidas y escalables**.  
 - Generar interacción divertida y personalizada con el público del stand.  
-- Inspirar a experimentar con **cloud computing** en proyectos 
+- Inspirar a experimentar con **cloud computing** en proyectos
+
+  https://raw.githubusercontent.com/dianaledist/NumeroDeVida/refs/heads/master/Basado%20en%20la%20app%20de%20nu%CC%81mero%20de%20vida%20que%20desarrollaste%2C%20se%20ve%20que%20implementaste%20un%20endpoint%20APl%20que%20recibe%20la%20fecha%20de%20nacimiento%20del%20usuario.%20Puntos%20clave%20del%20funcionamiento%20La%20app%20recibe%20la%20fecha%20.png.jpeg
